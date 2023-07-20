@@ -10,7 +10,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ![](/images/desktop-preview.jpg)
 #
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [My live site URL here](https://calm-taffy-9ca2fe.netlify.app/)
 
 
 ## Author

@@ -53,7 +53,7 @@ body {
   height: 300px;
 }
 .rating {
-  margin-top: 65px;
+  margin-top: 50px;
 }
 .review {
   width: 1030px;
@@ -189,7 +189,7 @@ body {
     overflow: hidden;
     height: auto;
    
-    padding: 60px 0px 0px 20px;
+    padding: 55px 0px 0px 20px;
     margin-top: 50px;
   }
   .cardArticle {
@@ -198,12 +198,13 @@ body {
     flex-direction: column;
   }
   .articleDetail {
-    margin-top: 60px;
+   
     display: flex;
     justify-content: center;
     align-items: center;
   }
   .article {
+    margin-top: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
